@@ -1,0 +1,13 @@
+pdfplumber
+ipywidgets
+langchain_community
+pypdf
+kagglehub
+pandas
+datasets
+transformers[torch]
+tensorboard
+evaluate
+nltk
+rouge-score
+absl-py
